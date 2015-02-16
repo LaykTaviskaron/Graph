@@ -1,0 +1,14 @@
+D:\Projects\Graph\GraphTest\obj\Debug\GraphTest.csprojResolveAssemblyReference.cache
+D:\Projects\Graph\GraphTest\bin\Debug\GraphTest.dll
+D:\Projects\Graph\GraphTest\bin\Debug\GraphTest.pdb
+D:\Projects\Graph\GraphTest\bin\Debug\Graph.exe
+D:\Projects\Graph\GraphTest\obj\Debug\GraphTest.dll
+D:\Projects\Graph\GraphTest\obj\Debug\GraphTest.pdb
+D:\Projects\Graph\GraphTest\bin\Debug\Graph.pdb
+D:\Projects\GraphAlgorythms\Graph\GraphTest\obj\Debug\GraphTest.csprojResolveAssemblyReference.cache
+D:\Projects\GraphAlgorythms\Graph\GraphTest\obj\Debug\GraphTest.dll
+D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\GraphTest.dll
+D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\GraphTest.pdb
+D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\Graph.exe
+D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\Graph.pdb
+D:\Projects\GraphAlgorythms\Graph\GraphTest\obj\Debug\GraphTest.pdb

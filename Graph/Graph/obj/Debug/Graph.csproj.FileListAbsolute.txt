@@ -1,0 +1,13 @@
+D:\Projects\Graph\Graph\bin\Debug\Graph.exe.config
+D:\Projects\Graph\Graph\bin\Debug\Graph.exe
+D:\Projects\Graph\Graph\bin\Debug\Graph.pdb
+D:\Projects\Graph\Graph\obj\Debug\Graph.exe
+D:\Projects\Graph\Graph\obj\Debug\Graph.pdb
+D:\Projects\Graph\Graph\bin\Debug\Graph.exe.CodeAnalysisLog.xml
+D:\Projects\Graph\Graph\bin\Debug\Graph.exe.lastcodeanalysissucceeded
+D:\Projects\GraphAlgorythms\Graph\Graph\bin\Debug\Graph.exe.config
+D:\Projects\GraphAlgorythms\Graph\Graph\obj\Debug\Graph.exe
+D:\Projects\GraphAlgorythms\Graph\Graph\obj\Debug\Graph.pdb
+D:\Projects\GraphAlgorythms\Graph\Graph\bin\Debug\Graph.exe
+D:\Projects\GraphAlgorythms\Graph\Graph\bin\Debug\Graph.pdb
+D:\Projects\GraphAlgorythms\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
