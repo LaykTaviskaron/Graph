@@ -57,7 +57,7 @@ namespace Graph
 			undirectedAdjacencyList.AddVertex("8");
 			undirectedAdjacencyList.AddVertex("9");
 			undirectedAdjacencyList.AddVertex("10");
-
+			
 			undirectedAdjacencyList.AddEdge("1", "2");
 			undirectedAdjacencyList.AddEdge("1", "3");
 			undirectedAdjacencyList.AddEdge("1", "4");
@@ -87,7 +87,7 @@ namespace Graph
 
 			DFS dfs = new DFS();
 			var resultDFS = dfs.Find<string>(undirectedAdjacencyList, "1", "B");
-			Console.WriteLine("Result of BFS search is vertice " + resultDFS);
+			Console.WriteLine("Result of DFS search is vertice " + resultDFS);
 
 			Console.ReadLine();
 		}

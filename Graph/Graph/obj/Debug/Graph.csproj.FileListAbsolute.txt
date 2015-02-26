@@ -11,3 +11,9 @@ D:\Projects\GraphAlgorythms\Graph\Graph\obj\Debug\Graph.pdb
 D:\Projects\GraphAlgorythms\Graph\Graph\bin\Debug\Graph.exe
 D:\Projects\GraphAlgorythms\Graph\Graph\bin\Debug\Graph.pdb
 D:\Projects\GraphAlgorythms\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+D:\GitHub\Graph\Graph\Graph\bin\Debug\Graph.exe.config
+D:\GitHub\Graph\Graph\Graph\obj\Debug\Graph.exe
+D:\GitHub\Graph\Graph\Graph\obj\Debug\Graph.pdb
+D:\GitHub\Graph\Graph\Graph\bin\Debug\Graph.exe
+D:\GitHub\Graph\Graph\Graph\bin\Debug\Graph.pdb
+D:\GitHub\Graph\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
