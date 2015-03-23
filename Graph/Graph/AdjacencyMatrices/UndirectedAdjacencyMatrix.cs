@@ -28,6 +28,11 @@ namespace Graph
 		
 		public UndirectedAdjacencyMatrix(int verticesNumber, bool[][] edges)
 		{
+            if (verticesNumber < 1)
+            {
+                throw new ArgumentException("Invalid vertices number");
+            }
+
 			if (edges == null)
 			{
 				throw new ArgumentNullException("edges");
@@ -39,11 +44,6 @@ namespace Graph
 				{
 					throw new ArgumentNullException("edges[" + i + "]");
 				}
-			}
-
-			if (verticesNumber < 1)
-			{
-				throw new ArgumentException("Invalid vertices number");
 			}
 
 			if (edges.Count() != verticesNumber)

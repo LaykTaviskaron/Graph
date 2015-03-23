@@ -10,7 +10,7 @@ namespace Graph
 	{
 		private List<string> visitedVertices;
 
-		private string FindValue<T>(IAdjacencyList<T> adjacencyList, string startVertex, T value)
+		private string FindValueRecursively<T>(IAdjacencyList<T> adjacencyList, string startVertex, T value)
 		{
 			foreach (var child in adjacencyList.GetVertexEdges(startVertex))
 			{
@@ -26,7 +26,7 @@ namespace Graph
 					return child.Name;
 				}
 				
-				var result = FindValue<T>(adjacencyList, child.Name, value);
+				var result = FindValueRecursively<T>(adjacencyList, child.Name, value);
 				
 				if (result != null)
 				{
@@ -62,7 +62,7 @@ namespace Graph
 			visitedVertices = new List<string>();
 			visitedVertices.Add(startVertex);
 
-			return FindValue<T>(adjacencyList, startVertex, value);
+			return FindValueRecursively<T>(adjacencyList, startVertex, value);
 		}
 	}
 }

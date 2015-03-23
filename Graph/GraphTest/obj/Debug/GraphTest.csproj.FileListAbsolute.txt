@@ -12,3 +12,10 @@ D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\GraphTest.pdb
 D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\Graph.exe
 D:\Projects\GraphAlgorythms\Graph\GraphTest\bin\Debug\Graph.pdb
 D:\Projects\GraphAlgorythms\Graph\GraphTest\obj\Debug\GraphTest.pdb
+E:\Graph\Graph\Graph\GraphTest\bin\Debug\GraphTest.dll
+E:\Graph\Graph\Graph\GraphTest\bin\Debug\GraphTest.pdb
+E:\Graph\Graph\Graph\GraphTest\bin\Debug\Graph.exe
+E:\Graph\Graph\Graph\GraphTest\bin\Debug\Graph.pdb
+E:\Graph\Graph\Graph\GraphTest\obj\Debug\GraphTest.csprojResolveAssemblyReference.cache
+E:\Graph\Graph\Graph\GraphTest\obj\Debug\GraphTest.dll
+E:\Graph\Graph\Graph\GraphTest\obj\Debug\GraphTest.pdb
