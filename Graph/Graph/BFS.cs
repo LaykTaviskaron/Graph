@@ -12,11 +12,6 @@ namespace Graph
 
 		private Queue<string> detectedVertices;
 
-		public BFS()
-		{
-
-		}
-
 		public string Find<T>(IAdjacencyList<T> adjacencyList, string startVertex, T value)
 		{
 			if (adjacencyList == null)
