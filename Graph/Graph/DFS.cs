@@ -10,11 +10,6 @@ namespace Graph
 	{
 		private List<string> visitedVertices;
 
-		public DFS()
-		{
-
-		}
-
 		private string FindValue<T>(IAdjacencyList<T> adjacencyList, string startVertex, T value)
 		{
 			foreach (var child in adjacencyList.GetVertexEdges(startVertex))
